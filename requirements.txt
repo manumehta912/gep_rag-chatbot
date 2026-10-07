@@ -1,0 +1,7 @@
+google-genai>=1.0.0
+pypdf>=5.0.0
+pdfplumber>=0.11.0
+numpy>=1.26
+python-dotenv>=1.0.0
+fastapi>=0.110
+uvicorn[standard]>=0.29

@@ -1,0 +1,6 @@
+# Replace these with the assignment's sample questions (one per line).
+# Optional: add expected PDF pages after a '|' to measure retrieval accuracy.
+How much will AI affect global growth? | 30,31
+What is the effect of rising government debt on sovereign spreads in EMDEs? | 120
+What does the report say about the costs of hidden debt?
+What is the outlook for Sub-Saharan Africa?
